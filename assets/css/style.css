@@ -222,3 +222,18 @@ h2{
   height:400px;
   width: 400px;
 }
+
+@media screen and (max-width: 980px) {
+  .header,
+  .h1box {
+    width:60%
+  }
+
+  .container3,
+  .container3 h2,
+  .container3 img {
+    width: 60%;
+  }
+
+
+}
